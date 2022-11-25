@@ -29,5 +29,5 @@ const sdk = ThirdwebSDK.fromPrivateKey(
     }
 })();
 
-export default sdk
+export default sdk;
 
